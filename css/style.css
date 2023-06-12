@@ -19,3 +19,22 @@ img{
     margin-left: 10px;
     
 }
+
+.title{
+    font-size: 3rem;
+    margin: 10px 10px 0 10px;
+}
+
+.text{
+    color: grey;
+    font-style: normal;
+    margin-left: 10px;
+}
+
+.color-text{
+    color: blue;
+}
+
+.minor-text{
+    font-size:x-small;
+}
