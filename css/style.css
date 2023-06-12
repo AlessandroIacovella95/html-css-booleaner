@@ -63,3 +63,19 @@ img{
 .list{
     margin-top: 30px;
 }
+
+.th-cell{
+    width: 500px;
+    background-color: aqua;
+    text-align: left;
+}
+
+.tr-cell{
+    background-color:aquamarine
+}
+
+table{
+    margin-top: 30px;
+    margin-left: 10px;
+    border-collapse: collapse;
+}
