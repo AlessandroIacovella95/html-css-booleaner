@@ -1,0 +1,21 @@
+body{
+    margin: 0;
+}
+
+.container{
+    max-width: 100%;
+    background-color: aqua;
+    background-image: url('../img/pattern.png');
+
+}
+
+img{
+    max-width: 100%;
+}
+
+.logo{
+    width: 150px;
+    margin-top: 50px;
+    margin-left: 10px;
+    
+}
