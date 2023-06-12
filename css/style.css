@@ -91,23 +91,7 @@ table{
     margin-left: 10px;
 }
 
-.photo-monitor{
-    background-image: url('../img/monitor.jpg');
-    background-size: cover;
-    max-width: 250px;
-    height: 200px;
-    margin-top: 20px;
-    margin-left: 10px;
-}
-
-.text-image{
-    color: white;
-    font-size: 20px;
-}
-
-.photo-graph{
-    background-image: url('../img/graph.jpg');
-    background-size: cover;
+.photo{
     max-width: 250px;
     height: 200px;
     margin-top: 20px;
@@ -115,4 +99,18 @@ table{
     margin-bottom: 10px;
 }
 
+.text-image{
+    color: white;
+    font-size: 20px;
+}
+
+.monitor{
+    background-image: url('../img/monitor.jpg');
+    background-size: cover;
+}
+
+.graph{
+    background-image: url('../img/graph.jpg');
+    background-size: cover; 
+}
 
