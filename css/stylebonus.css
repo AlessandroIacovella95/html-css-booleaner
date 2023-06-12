@@ -1,0 +1,126 @@
+body{
+    margin: 0;
+}
+
+.container-main-footer{
+    width: 75%;
+    margin: auto;
+}
+
+.container{
+    max-width: 100%;
+    background-color: aqua;
+    background-image: url('../img/pattern.png');
+    background-size: 400px;
+
+}
+
+img{
+    max-width: 100%;
+}
+
+.logo{
+    width: 150px;
+    margin-top: 50px;
+    margin-left: 10px;
+    
+}
+
+.title{
+    font-size: 3rem;
+    margin: 10px 10px 0 10px;
+}
+
+.text{
+    color: grey;
+    font-style: normal;
+    margin-left: 10px;
+}
+
+.color-text{
+    color: blue;
+}
+
+.minor-text{
+    font-size:x-small;
+}
+
+.photo-main{
+    margin-top: 10px;
+    margin-left: 10px; 
+}
+
+
+.tim-photo{
+    max-width: 49%
+}
+
+
+.caption{
+   margin-top: 0; 
+   margin-bottom: 0;
+   font-size:small;
+}
+
+.highlighted-text{
+    background: yellow;
+}
+
+.paragraph{
+    margin-left: 10px;
+    margin-top: 30px;
+}
+
+.list{
+    margin-top: 30px;
+}
+
+.th-cell{
+    width: 25%;
+    background-color: aqua;
+    text-align: left;
+}
+
+.th-cell3{
+    width: 50%;
+    background-color: aqua;
+    text-align: left;
+}
+
+.tr-cell{
+    background-color:aquamarine
+}
+
+table{
+    margin-top: 30px;
+    margin-left: 10px;
+    border-collapse: collapse;
+}
+
+.text-footer{
+    color: grey;
+    margin-left: 10px;
+}
+
+.photo{
+    max-width: 250px;
+    height: 200px;
+    margin-top: 20px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+
+.text-image{
+    color: white;
+    font-size: 20px;
+}
+
+.monitor{
+    background-image: url('../img/monitor.jpg');
+    background-size: cover;
+}
+
+.graph{
+    background-image: url('../img/graph.jpg');
+    background-size: cover; 
+}
