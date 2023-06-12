@@ -65,7 +65,13 @@ img{
 }
 
 .th-cell{
-    width: 500px;
+    width: 25%;
+    background-color: aqua;
+    text-align: left;
+}
+
+.th-cell3{
+    width: 50%;
     background-color: aqua;
     text-align: left;
 }
@@ -79,4 +85,34 @@ table{
     margin-left: 10px;
     border-collapse: collapse;
 }
+
+.text-footer{
+    color: grey;
+    margin-left: 10px;
+}
+
+.photo-monitor{
+    background-image: url('../img/monitor.jpg');
+    background-size: cover;
+    max-width: 250px;
+    height: 200px;
+    margin-top: 20px;
+    margin-left: 10px;
+}
+
+.text-image{
+    color: white;
+    font-size: 20px;
+}
+
+.photo-graph{
+    background-image: url('../img/graph.jpg');
+    background-size: cover;
+    max-width: 250px;
+    height: 200px;
+    margin-top: 20px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+
 
